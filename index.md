@@ -29,10 +29,9 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 
 ### HyGi Pro(KCCS Moblie Engineering), Software Engineer | 6. 2020 - Present
 * Java, MySQL
-* Customizing Website for automate workflow system
-*	Reduced administrative workload and track the on-site situation in real time
-*	Designed user interface and implemented API’s and Testing
-*	Client support with continuous communication
+* Customizing Website Medical Service Linkage System
+* Desinged API's and Testing
+* Implementing API's using Java
 
 # Education
 ### Smart Cloud IT Master (Seoul / Republic of Korea) | 10. 2017 - 3. 2019 
@@ -47,14 +46,6 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * LPIC-1, Linux Administrator
 * Oracle Certified Java Programmer, Sliver SE 7/8
 * Industrial Engineer Information Processing(National technical qualification certificate)
-
-
-### Stock Trading System (Intertrade / Tokyo) | 4 . 2019 - 9 . 2019
-* Implemented the features of the data analysis and statistical system
-* Refactored legacy code from Hibernate 3 to JPA
-* Introduced Spring boot and JPA to inexperienced member
-* Reduced test issues of 70% by introducing JUnit 4 
-* Spring boot, OracleDB, JPA, Hibernate, Gradle 4, JUnit 4, Linux CentOS, SVN
 
 ### LANGUAGE SKILLS
 * Japanese in full professional proficiency
