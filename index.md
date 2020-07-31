@@ -18,14 +18,14 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
 
 ## PROJECT
-### SmartBee(KCCS Moblie Engineering), Software Engineer | 9. 2019 - Present
+### 1. SmartBee, Software Engineer | 9. 2019 - Present
 * Java, AngularJS, MySQL, GIT
 * Customizing Website for automate workflow system
 *	Reduced administrative workload and track the on-site situation in real time
 *	Designed user interface and implemented API’s and Testing
 *	Client support with continuous communication
 
-### HyGi Pro(KCCS Moblie Engineering), Software Engineer | 6. 2020 - Present
+#### 2. HyGi Pro, Software Engineer | 6. 2020 - Present
 * Java, MySQL
 * Customizing Website Medical Service Linkage System
 * Desinged API's and Testing
