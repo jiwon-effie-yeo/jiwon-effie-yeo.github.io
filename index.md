@@ -29,9 +29,9 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 
 ### 2. HyGi Pro, Software Engineer  | 6. 2020 - Present
 * Java, MySQL
-* Customizing Website Medical Service Linkage System
-* Desinged API's and Testing
-* Implementing API's using Java
+* Customizing Website for Linkage System of Medical Services
+* Desinged DataBase and API's, Testing
+* Implementing using Java, Oauth2.0 
 
 ---
 ## Education
