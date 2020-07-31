@@ -12,20 +12,21 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * IntelliJ, Visual Studio Code, Eclipse
 
 ## Work experience
-#### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) 4. 2019 - present
+#### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) 
+ 4. 2019 - present
 * Workflow automation solution program development
 * Designed and implemented API’s interface for user-friendly website
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
 
 ## PROJECT
-### 1. SmartBee, Software Engineer | 9. 2019 - Present
+### 1. SmartBee, Software Engineer  (9. 2019 - Present)
 * Java, AngularJS, MySQL, GIT
 * Customizing Website for automate workflow system
 *	Reduced administrative workload and track the on-site situation in real time
 *	Designed user interface and implemented API’s and Testing
 *	Client support with continuous communication
 
-#### 2. HyGi Pro, Software Engineer | 6. 2020 - Present
+### 2. HyGi Pro, Software Engineer  (6. 2020 - Present)
 * Java, MySQL
 * Customizing Website Medical Service Linkage System
 * Desinged API's and Testing
