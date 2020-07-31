@@ -6,7 +6,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 
 ---
 ## Technical Skills
-* Java, JPA
+* Java
 * JavaScript,Angular
 * MYSQL, OracleDB
 * Linux CentOS, AWS, GIT, SVN
@@ -19,7 +19,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
 
 ---
-## PROJECT
+## Projects
 ### 1. SmartBee, Software Engineer  | 9. 2019 - Present
 * Java, AngularJS, MySQL, GIT
 * Customizing Website for automate workflow system
@@ -45,7 +45,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Oracle Certified Java Programmer, Sliver SE 7/8
 * Industrial Engineer Information Processing(National technical qualification certificate)
 
-## LANGUAGE SKILLS
+## Language Skills
 * Japanese in full professional proficiency
 * English in a business conversation level
 * Korean Native speaker
