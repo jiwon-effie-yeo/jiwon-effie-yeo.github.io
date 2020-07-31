@@ -4,6 +4,7 @@ NishiKamata, Otaku, Tokyo
 Phone: +81) 080-8168-4600  
 tofha990@gmail.com, github.com/jiwon-effie-yeo
 
+---
 ## Technical Skills
 * Java, JPA
 * JavaScript,Angular
@@ -32,13 +33,12 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Desinged API's and Testing
 * Implementing API's using Java
 
-
+---
 ## Education
 ### Smart Cloud IT Master (Seoul / Republic of Korea)  | 10. 2017 - 3. 2019 
 * Global Full Stack Web Developer Boot Camp
 *	Learned and applied design patterns on dynamic web applications
 
----
 ## Technical Certifications
 * CCNA, Cisco Certified Network Associate Routing and Switching
 * LPIC-1, Linux Administrator
