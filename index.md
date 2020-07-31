@@ -4,17 +4,15 @@ NishiKamata, Otaku, Tokyo
 Phone: +81) 080-8168-4600  
 tofha990@gmail.com, github.com/jiwon-effie-yeo
 
-
-# TECHNICAL SKILLS
-### Backend
+### Technical Skills
 * Java, JPA
 * JavaScript,Angular
 * MYSQL, OracleDB
 * Linux CentOS, AWS, GIT, SVN
 * IntelliJ, Visual Studio Code, Eclipse
 
-# WORK EXPERIENCE
-### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) | 4 . 2019 - present
+# Work experience
+## System Engineer at KCCS Mobile Engineering (Tokyo, Japan) | 4 . 2019 - present
 * Workflow automation solution program development
 * Designed and implemented API’s interface for user-friendly website
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
