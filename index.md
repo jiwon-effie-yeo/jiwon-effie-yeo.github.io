@@ -12,7 +12,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * IntelliJ, Visual Studio Code, Eclipse
 
 ## Work experience
-### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) | 4 . 2019 - present
+#### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) 4. 2019 - present
 * Workflow automation solution program development
 * Designed and implemented API’s interface for user-friendly website
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
@@ -30,6 +30,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Customizing Website Medical Service Linkage System
 * Desinged API's and Testing
 * Implementing API's using Java
+
 
 ## Education
 ### Smart Cloud IT Master (Seoul / Republic of Korea) | 10. 2017 - 3. 2019 
