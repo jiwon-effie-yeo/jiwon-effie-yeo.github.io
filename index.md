@@ -18,6 +18,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Designed and implemented API’s interface for user-friendly website
 * Troubleshooting, maintenance and client support with continuous communication in Japanese and English
 
+
 ---
 ## Projects
 ### 1. SmartBee, Software Engineer  | 9. 2019 - Present
@@ -32,6 +33,7 @@ tofha990@gmail.com, github.com/jiwon-effie-yeo
 * Customizing Website for Linkage System of Medical Services
 * Desinged DataBase and API's, Testing
 * Implementing using Java, Oauth2.0 
+
 
 ---
 ## Education
