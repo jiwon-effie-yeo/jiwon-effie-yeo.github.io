@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Jiwon Yeo
 
-You can use the [editor on GitHub](https://github.com/jiwon-effie-yeo/jiwon-effie-yeo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+NishiKamata, Otaku, Tokyo  
+Phone: +81) 080-8168-4600  
+tofha990@gmail.com, github.com/jiwon-effie-yeo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# TECHNICAL SKILLS
+### Backend
+* Java, JPA
+* JavaScript,Angular
+* MYSQL, OracleDB
+* Linux CentOS, AWS, GIT, SVN
+* IntelliJ, Visual Studio Code, Eclipse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# WORK EXPERIENCE
+### System Engineer at KCCS Mobile Engineering (Tokyo, Japan) | 4 . 2019 - present
+* Workflow automation solution program development
+* Designed and implemented API’s interface for user-friendly website
+* Troubleshooting, maintenance and client support with continuous communication in Japanese and English
 
-```markdown
-Syntax highlighted code block
+# PROJECT
+### SmartBee(KCCS Moblie Engineering), Software Engineer | 9. 2019 - Present
+* Java, AngularJS, MySQL, GIT
+* Customizing Website for automate workflow system
+*	Reduced administrative workload and track the on-site situation in real time
+*	Designed user interface and implemented API’s and Testing
+*	Client support with continuous communication
 
-# Header 1
-## Header 2
-### Header 3
+### HyGi Pro(KCCS Moblie Engineering), Software Engineer | 6. 2020 - Present
+* Java, MySQL
+* Customizing Website for automate workflow system
+*	Reduced administrative workload and track the on-site situation in real time
+*	Designed user interface and implemented API’s and Testing
+*	Client support with continuous communication
 
-- Bulleted
-- List
+# Education
+### Smart Cloud IT Master (Seoul / Republic of Korea) | 10. 2017 - 3. 2019 
+* Global Full Stack Web Developer Boot Camp
+*	Learned and applied design patterns on dynamic web applications
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+# Technical Certifications
+* CCNA, Cisco Certified Network Associate Routing and Switching
+* LPIC-1, Linux Administrator
+* Oracle Certified Java Programmer, Sliver SE 7/8
+* Industrial Engineer Information Processing(National technical qualification certificate)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Stock Trading System (Intertrade / Tokyo) | 4 . 2019 - 9 . 2019
+* Implemented the features of the data analysis and statistical system
+* Refactored legacy code from Hibernate 3 to JPA
+* Introduced Spring boot and JPA to inexperienced member
+* Reduced test issues of 70% by introducing JUnit 4 
+* Spring boot, OracleDB, JPA, Hibernate, Gradle 4, JUnit 4, Linux CentOS, SVN
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiwon-effie-yeo/jiwon-effie-yeo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### LANGUAGE SKILLS
+* Japanese in full professional proficiency
+* English in a business conversation level
+* Korean Native speaker
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
